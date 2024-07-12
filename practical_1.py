@@ -1,0 +1,6 @@
+Name =input("enter the name: ")
+address=input("enter the address: ")
+no_num=input("enter the num:")
+print("name: ",Name)
+print("address: ",address)
+print("no_num: ",no_num)
